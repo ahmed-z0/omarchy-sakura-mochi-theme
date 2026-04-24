@@ -12,18 +12,18 @@ return {
                 base02 = "#0b0d11", -- Selection background
                 base03 = "#4a5d46", -- Comments, invisibles
                 base04 = "#d8c6cc", -- Dark foreground
-                base05 = "#f0b7ca", -- Default foreground
-                base06 = "#ffd0dc", -- Light foreground
-                base07 = "#fff1f6", -- Light background
+                base05 = "#e2c2cc", -- Default foreground
+                base06 = "#efd6dd", -- Light foreground
+                base07 = "#f5edf0", -- Light background
 
                 -- Accent colors (base08-base0F)
-                base08 = "#f23888", -- Variables, errors, red
-                base09 = "#ff6aa7", -- Integers, constants, orange
+                base08 = "#cc7a99", -- Variables, errors, red
+                base09 = "#dea1b5", -- Integers, constants, orange
                 base0A = "#d7be96", -- Classes, types, yellow
                 base0B = "#5aa15d", -- Strings, green
                 base0C = "#6f9485", -- Support, regex, cyan
                 base0D = "#67dd82", -- Functions, keywords, blue
-                base0E = "#f0b7ca", -- Keywords, storage, magenta
+                base0E = "#e2c2cc", -- Keywords, storage, magenta
                 base0F = "#e6d3b4", -- Deprecated, brown/yellow
             },
         },
