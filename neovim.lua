@@ -20,9 +20,9 @@ return {
                 base08 = "#d86f9d", -- Variables, errors, red
                 base09 = "#e8a5bc", -- Integers, constants, orange
                 base0A = "#d7be96", -- Classes, types, yellow
-                base0B = "#356a46", -- Strings, green
+                base0B = "#417850", -- Strings, green
                 base0C = "#6f9485", -- Support, regex, cyan
-                base0D = "#448755", -- Functions, keywords, blue
+                base0D = "#529764", -- Functions, keywords, blue
                 base0E = "#e2c2cc", -- Keywords, storage, magenta
                 base0F = "#e6d3b4", -- Deprecated, brown/yellow
             },

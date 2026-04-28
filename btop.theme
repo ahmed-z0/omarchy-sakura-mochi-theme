@@ -8,7 +8,7 @@ theme[main_fg]="#e2c2cc"
 theme[title]="#efd6dd"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#356a46"
+theme[hi_fg]="#417850"
 
 # Background color of selected item in processes box
 theme[selected_bg]="#4a5d46"
@@ -23,7 +23,7 @@ theme[inactive_fg]="#4a5d46"
 theme[proc_misc]="#d8c6cc"
 
 # Box outline and divider line color
-theme[cpu_box]="#356a46"
+theme[cpu_box]="#417850"
 theme[mem_box]="#e2c2cc"
 theme[net_box]="#6f9485"
 theme[proc_box]="#efd6dd"
@@ -31,36 +31,36 @@ theme[div_line]="#4a5d46"
 
 # Gradient for all meters and graphs
 theme[temp_start]="#6f9485"
-theme[temp_mid]="#356a46"
+theme[temp_mid]="#417850"
 theme[temp_end]="#d7be96"
 
 
-theme[cpu_start]="#356a46"
-theme[cpu_mid]="#448755"
+theme[cpu_start]="#417850"
+theme[cpu_mid]="#529764"
 theme[cpu_end]="#e2c2cc"
 
 
 theme[free_start]="#4a5d46"
-theme[free_mid]="#356a46"
-theme[free_end]="#6b9d72"
+theme[free_mid]="#417850"
+theme[free_end]="#79ae80"
 
 
 theme[cached_start]="#6f9485"
-theme[cached_mid]="#356a46"
+theme[cached_mid]="#417850"
 theme[cached_end]="#e2c2cc"
 
 
 theme[available_start]="#6f9485"
-theme[available_mid]="#356a46"
-theme[available_end]="#6b9d72"
+theme[available_mid]="#417850"
+theme[available_end]="#79ae80"
 
 
-theme[used_start]="#356a46"
+theme[used_start]="#417850"
 theme[used_mid]="#e2c2cc"
 theme[used_end]="#d86f9d"
 
 
-theme[download_start]="#356a46"
+theme[download_start]="#417850"
 theme[download_mid]="#6f9485"
 theme[download_end]="#e2c2cc"
 
