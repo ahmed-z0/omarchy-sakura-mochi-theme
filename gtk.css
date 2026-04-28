@@ -1,7 +1,7 @@
 @define-color background     #0b0d11;
 @define-color foreground     #e2c2cc;
 @define-color black          #0b0d11;
-@define-color red            #cc7a99;
+@define-color red            #d86f9d;
 @define-color green          #5aa15d;
 @define-color yellow         #d7be96;
 @define-color blue           #67dd82;
@@ -9,7 +9,7 @@
 @define-color cyan           #6f9485;
 @define-color white          #d8c6cc;
 @define-color bright_black   #4a5d46;
-@define-color bright_red     #dea1b5;
+@define-color bright_red     #e8a5bc;
 @define-color bright_green   #86bf86;
 @define-color bright_yellow  #e6d3b4;
 @define-color bright_blue    #8bf0a1;
@@ -62,7 +62,7 @@
 @define-color theme_text_color @foreground;
 @define-color theme_bg_color @background;
 @define-color theme_base_color @black;
-@define-color theme_selected_bg_color #cc7a99;
+@define-color theme_selected_bg_color #d86f9d;
 @define-color theme_selected_fg_color #0b0d11;
 @define-color insensitive_bg_color @background;
 @define-color insensitive_fg_color @bright_black;
@@ -71,7 +71,7 @@
 @define-color theme_unfocused_text_color @foreground;
 @define-color theme_unfocused_bg_color @background;
 @define-color theme_unfocused_base_color @black;
-@define-color theme_unfocused_selected_bg_color #cc7a99;
+@define-color theme_unfocused_selected_bg_color #d86f9d;
 @define-color theme_unfocused_selected_fg_color #0b0d11;
 @define-color unfocused_insensitive_color @bright_black;
 @define-color unfocused_borders alpha(@foreground, 0.1);
@@ -175,12 +175,12 @@ menuitem {
 
 menuitem:hover,
 menuitem:focus {
-    background-color: #cc7a99;
+    background-color: #d86f9d;
     color: #0b0d11;
 }
 
 menuitem:selected {
-    background-color: #cc7a99;
+    background-color: #d86f9d;
     color: #0b0d11;
 }
 
@@ -188,6 +188,6 @@ menuitem:selected {
 .view:selected:focus,
 textview text selection:focus,
 textview text selection {
-    background-color: #cc7a99;
+    background-color: #d86f9d;
     color: #0b0d11;
 }

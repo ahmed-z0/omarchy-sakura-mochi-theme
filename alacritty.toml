@@ -4,11 +4,11 @@ foreground = "#e2c2cc"
 
 [colors.cursor]
 text = "#0b0d11"
-cursor = "#cc7a99"
+cursor = "#d86f9d"
 
 [colors.vi_mode_cursor]
 text = "#0b0d11"
-cursor = "#cc7a99"
+cursor = "#d86f9d"
 
 [colors.search.matches]
 foreground = "#0b0d11"
@@ -32,7 +32,7 @@ background = "CellForeground"
 
 [colors.normal]
 black = "#0b0d11"
-red = "#cc7a99"
+red = "#d86f9d"
 green = "#5aa15d"
 yellow = "#d7be96"
 blue = "#67dd82"
@@ -42,7 +42,7 @@ white = "#d8c6cc"
 
 [colors.bright]
 black = "#4a5d46"
-red = "#dea1b5"
+red = "#e8a5bc"
 green = "#86bf86"
 yellow = "#e6d3b4"
 blue = "#8bf0a1"
@@ -52,7 +52,7 @@ white = "#f5edf0"
 
 [colors.dim]
 black = "#d8c6cc"
-red = "#dea1b5"
+red = "#e8a5bc"
 green = "#86bf86"
 yellow = "#e6d3b4"
 blue = "#8bf0a1"

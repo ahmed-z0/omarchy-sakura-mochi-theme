@@ -1,10 +1,10 @@
-@define-color selected-text #cc7a99;
+@define-color selected-text #d86f9d;
 @define-color text #e2c2cc;
 @define-color base #0b0d11;
 @define-color border #4a5d46;
 @define-color foreground #e2c2cc;
 @define-color background #0b0d11;
-@define-color accent #cc7a99;
+@define-color accent #d86f9d;
 
 child:selected {
   background: alpha(@accent, 0.2);

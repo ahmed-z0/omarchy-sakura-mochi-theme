@@ -57,7 +57,7 @@ theme[available_end]="#86bf86"
 
 theme[used_start]="#5aa15d"
 theme[used_mid]="#e2c2cc"
-theme[used_end]="#cc7a99"
+theme[used_end]="#d86f9d"
 
 
 theme[download_start]="#5aa15d"
@@ -66,5 +66,5 @@ theme[download_end]="#e2c2cc"
 
 
 theme[upload_start]="#e2c2cc"
-theme[upload_mid]="#cc7a99"
+theme[upload_mid]="#d86f9d"
 theme[upload_end]="#efd6dd"
